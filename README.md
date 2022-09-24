@@ -5,7 +5,7 @@
 ## About me
 I'm **Corry/Gio** currently I'm Python/Rust Developer, I develop different projects that might help in information gathering and more
 
-## Skills
+## <h1>💡 - Skills</h1>
  - 🐍 **Python**
  - 🏮 **Rust**
  - 📙 **Html**
