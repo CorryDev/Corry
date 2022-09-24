@@ -1,12 +1,15 @@
 ### <h1>Hi there 😏, my name is Corry</h1>
+
 #### I'm Python/Rust Developer!
 ![I'm Python/Rust Developer!](https://github.com/CorryDev/Corry/blob/main/assets/banner.png?raw=true)
 
 ## <h1>🧑 - About me</h1>
+
 I'm **Corry/Gio** 16 y.o currently I'm Python/Rust Developer, I develop different projects that might help in information gathering and more.
 
 
 ## <h1>💡 - Skills</h1>
+
  - 🐍 **Python**    
  - 🏮 **Rust**      
  - 📙 **Html**      
